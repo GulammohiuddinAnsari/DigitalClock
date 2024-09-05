@@ -1,10 +1,11 @@
 import './App.css'
+import DigitalClock from './DigitalClock'
 
 function App() {
 
   return (
     <>
-    <h1>aftab</h1>
+    <DigitalClock/>
     </>
   )
 }

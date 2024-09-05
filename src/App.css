@@ -1,0 +1,22 @@
+body{
+  background-image: url(assets/image/myimage.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+
+}
+.clockcontainer{
+  
+}
+.clock{
+  color: hsl(118, 100%, 49%);
+  font-size: 45rem;
+  font-weight: bold;
+  font-family: monospace;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  min-height: 100vh;
+  text-shadow: 10px 10px 10px rgba(3, 3, 3, 0.541);
+}
