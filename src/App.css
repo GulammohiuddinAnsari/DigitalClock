@@ -8,7 +8,7 @@ body{
 }
 .clock{
   color: hsl(118, 100%, 49%);
-  font-size: 45rem;
+  font-size: 10rem;
   font-weight: bold;
   font-family: monospace;
   align-items: center;
