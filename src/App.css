@@ -6,12 +6,9 @@ body{
   background-attachment: fixed;
 
 }
-.clockcontainer{
-  
-}
 .clock{
   color: hsl(118, 100%, 49%);
-  font-size: 50px;
+  font-size: 45rem;
   font-weight: bold;
   font-family: monospace;
   align-items: center;
